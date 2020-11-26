@@ -177,12 +177,14 @@ body {
 }
 
 .img-text-wrapper:hover .subtitle {
+   font-weight: 600;
   color: lightseagreen;
-  font-weight: 600;
+ 
 }
 .img-text-wrapper1:hover .subtitle1 {
-  color: white;
   font-weight: 900;
+  color: white;
+  
 }
 .img-text-wrapper1:hover .Title {
   color: white;
