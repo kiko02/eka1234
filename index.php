@@ -18,7 +18,7 @@ input[type=button], input[type=submit], input[type=reset] {
   padding: none;
   text-decoration: none;
   margin: 10px 2px;
-  font-size: 20px;
+  font-size: 17px;
   font-family: "Lato", sans-serif;
   margin: 0px;
   cursor: pointer;color: gray;
