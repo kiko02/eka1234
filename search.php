@@ -37,9 +37,9 @@
 <?php
 //finding specific data in the database
 
-	$host = "localhost";													//begining to connecting to the database
-	$username = "root";
-	$usb_pass = "usbw";
+	$host = "127.0.0.1:50263";													//begining to connecting to the database
+	$username = "azure";
+	$usb_pass = "6#vWHD_$";
 	$database_in_use = "buvvalde";
 
 	$mysqli = new mysqli($host, $username, $usb_pass, $database_in_use);	//end of connceting to database
