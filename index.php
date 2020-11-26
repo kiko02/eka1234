@@ -14,7 +14,7 @@
     <div class="nav-wrapper">
       <div class="left-side">
         <div class="nav-link-wrapper active-nav-link">
-          <a href="index.html">Sākums</a>
+          <a href="index.php">Sākums</a>
         </div>
 
         <div class="nav-link-wrapper">
