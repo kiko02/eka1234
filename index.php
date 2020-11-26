@@ -9,7 +9,23 @@
 </head>
 
 <body>
+<style> 
 
+input[type=button], input[type=submit], input[type=reset] {
+  background-color: black;
+  border: none;
+  border-radius: 5px;
+  padding: none;
+  text-decoration: none;
+  margin: 10px 2px;
+  font-size: 20px;
+  font-family: "Lato", sans-serif;
+  margin: 0px;
+  cursor: pointer;color: gray;
+ 
+ 
+}
+</style>
   <div class="container">
     <div class="nav-wrapper">
       <div class="left-side">
@@ -62,14 +78,17 @@
             <div class="logo-wrapper">
               <img src="images/logos/maja.png" alt="">
             </div>
-			<div class="subtitle">Meklēt pēc adreses</div>
+			<div class="subtitle">Pēc adreses</div>
 			
 			
 			<form action = "search.php" method= "post"> 
+			
 			<input type="text" name="keyword"><br>
+			
 			<input type="submit" value="Meklēt">
+			 
 			</form>
-            
+           
 			
           </div>
         </div>
@@ -81,7 +100,7 @@
               <img src="images/logos/arhitekts.png" alt="">
             </div>
 
-            <div class="subtitle">Meklēt pēc arhitekta</div>
+            <div class="subtitle">Pēc arhitekta</div>
 			<form action = "search_arhitekts.php" method= "post"> 
 			<input type="text" name="keyword"><br>
 			<input type="submit" value="Meklēt">

@@ -99,6 +99,7 @@ body {
   width: 100%;
 }
 .img-text-wrapper {
+	
   position: absolute;
   top: 0;
   display: flex;
@@ -107,10 +108,11 @@ body {
   align-items: center;
   height: 100%;
   text-align: center;
-  padding-left: 100px;
-  padding-right: 100px;
+ 
+  
 }
 .img-text-wrapper1 {
+
   position: absolute;
   top: 0;
   display: flex;
@@ -135,11 +137,13 @@ body {
 }
 .img-text-wrapper .subtitle {
   transition: 1s;
-  color: transparent;
+  color: transparent;;
+
 }
 .img-text-wrapper1 .subtitle1 {
   transition: 1s;
   color: transparent;
+  
 }
 
 .img-text-wrapper1 .Title {
@@ -156,14 +160,15 @@ body {
 .img-text-wrapper:hover .subtitle {
   color: lightseagreen;
   font-weight: 600;
+ 
 }
 .img-text-wrapper1:hover .subtitle1 {
   color: white;
   font-weight: 900;
+  
 }
 .img-text-wrapper1:hover .Title {
   color: white;
-  font-size: 40px;
 }
 
 .logo-wrapper img {
