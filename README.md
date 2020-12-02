@@ -2,7 +2,7 @@
 Sveiki!
 Šeit atrodoami visi faili, kas veido mājaslapu un datu bāzi.
 Mājaslapai kā serveri izmantojam Microsoft Azure.
-Mūsu mājaslapas prototips ir atrodams vietnē https://eka1234.azurewebsites.net/index.php (www.ēka.lv)
+Mūsu mājaslapas prototips ir atrodams vietnē https://eka1234.azurewebsites.net/index.php (www.ēka.lv Pagaidām nav savienots)
 
 Prototipa pirmatnējai izveidei ar localhost izmantojām usbwebserver.
 
